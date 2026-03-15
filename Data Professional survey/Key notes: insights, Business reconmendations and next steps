@@ -1,1 +1,18 @@
+The Data Professional survey visualization above is uploaded as a Pbi file, and the viewers has to click on the view raw after opening the folder, it will automatically download and ask you to open file to view the visualization. This is to allow viewers to be taken directly to the Power Bi platform to view the Dashboard and the Power query simultanously
 
+ABOUT THE DASHBOARD VISUALISATION
+
+This dashboard was built using Microsoft Power BI to analyze responses from 630 data professionals and provide insights into salary trends, job roles, skills, and career satisfaction in the data industry.
+
+The dashboard presents a breakdown of survey data showing the distribution of data professionals by country, average salary by job title, preferred programming languages, difficulty of entering the data field, and satisfaction levels with salary and work-life balance.
+
+Key insights from the analysis ;
+
+show that Data Scientists and Data Engineers earn the highest salaries, while Python is the most preferred programming language, confirming its importance in the data industry. The results also indicate that breaking into the data field is generally difficult, salary satisfaction is relatively low (4.27/10), and work-life balance is moderate (5.74/10), suggesting possible retention challenges for organizations.
+
+From a business perspective ;
+
+the dashboard highlights the need for companies to offer competitive compensation, invest in technical skill development, and improve employee work conditions to attract and retain skilled data professionals.
+This analysis demonstrates how data visualization can be used to transform raw survey data into actionable insights that support workforce planning, hiring strategy, and business decision-making.
+
+By using this analysis, decison makers can make data driven workforce planning decisons that improve retention, productivity and overall business performance
